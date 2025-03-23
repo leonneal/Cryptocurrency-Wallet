@@ -1,2 +1,2 @@
 # Cryptocurrency-Wallet
-Smart Wallet
+Leonz Smart Wallet
